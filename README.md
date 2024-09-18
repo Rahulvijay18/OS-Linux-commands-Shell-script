@@ -41,7 +41,7 @@ s.n. dasgupta
 ```
 ### Display the content of the files
 cat < file1
-![alt text](<Screenshot from 2024-09-02 20-50-10.png>)
+https://github.com/Prajin19/OS-Linux-commands-Shell-script/raw/main/Screenshot%20from%202024-09-02%2020-50-10.png
 ## OUTPUT
 
 
