@@ -41,7 +41,8 @@ s.n. dasgupta
 ```
 ### Display the content of the files
 cat < file1
-https://github.com/Prajin19/OS-Linux-commands-Shell-script/raw/main/Screenshot%20from%202024-09-02%2020-50-10.png
+![image](https://github.com/user-attachments/assets/72ae28a5-a06b-4f38-9f3b-7b1f76a0ee95)
+
 ## OUTPUT
 
 
